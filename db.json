@@ -1,0 +1,68 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "email": "alexmobilepost@gmail.com",
+      "name": "Alex",
+      "password": "12345"
+    },
+    {
+      "email": "asdf",
+      "name": "asdf",
+      "password": "asdf",
+      "id": 1
+    },
+    {
+      "email": "123",
+      "name": "123",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "email": "123",
+      "name": "123",
+      "password": "123",
+      "id": 3
+    },
+    {
+      "email": "asd",
+      "name": "asd",
+      "password": "asd",
+      "id": 4
+    },
+    {
+      "email": "ййй",
+      "name": "ййй",
+      "password": "ййй",
+      "id": 5
+    }
+  ],
+  "dropdown": {
+    "main": {
+      "title": "Admin settings",
+      "path": "admin_settings.png"
+    },
+    "items": [
+      {
+        "id": 0,
+        "title": "Edit users",
+        "path": "edit_users.png"
+      },
+      {
+        "id": 1,
+        "title": "Web statistics",
+        "path": "web_statistics.png"
+      },
+      {
+        "id": 2,
+        "title": "Upload settings",
+        "path": "upload_settings.png"
+      },
+      {
+        "id": 3,
+        "title": "Edit slider",
+        "path": "edit_slider.png"
+      }
+    ]
+  }
+}
